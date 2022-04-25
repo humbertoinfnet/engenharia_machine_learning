@@ -1,0 +1,11 @@
+{
+  "CalibratedClassifierCV_score-2_unknown_dataset-2": "CalibratedClassifierCV.score(X=<DataFrame>, y=<Series>)",
+  "CalibratedClassifierCV_score-3_unknown_dataset-3": "CalibratedClassifierCV.score(X=<DataFrame>, y=<Series>)",
+  "CalibratedClassifierCV_score-4_unknown_dataset-4": "CalibratedClassifierCV.score(X=<DataFrame>, y=<Series>)",
+  "CalibratedClassifierCV_score-5_unknown_dataset-5": "CalibratedClassifierCV.score(X=<DataFrame>, y=<Series>)",
+  "CalibratedClassifierCV_score-6_unknown_dataset-6": "CalibratedClassifierCV.score(X=<DataFrame>, y=<Series>)",
+  "CalibratedClassifierCV_score-7_unknown_dataset-7": "CalibratedClassifierCV.score(X=<DataFrame>, y=<Series>)",
+  "CalibratedClassifierCV_score-8_unknown_dataset-8": "CalibratedClassifierCV.score(X=<DataFrame>, y=<Series>)",
+  "CalibratedClassifierCV_score-9_unknown_dataset-9": "CalibratedClassifierCV.score(X=<DataFrame>, y=<Series>)",
+  "CalibratedClassifierCV_score_unknown_dataset": "CalibratedClassifierCV.score(X=<DataFrame>, y=<Series>)"
+}
