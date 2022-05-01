@@ -23,12 +23,9 @@ Os pipelines são responsáveis por padronizar, otimizar e melhorar o tratamento
 
 # 5 - Com base no diagrama realizado na questão 2, aponte os artefatos que serão criados ao longo de um projeto. Para cada artefato, indique qual seu objetivo.
 
-1.  Requisição de Dados: obtenção dos registros necessários para todas as etapas do projeto de Machine Learning.
-2.  Processamento dos dados: fase que tem por objetivo o tratamento dos dados para que haja melhor desempenho do modelo.
-3.  Treinamento do Modelo: onde é feita a aprendizagem da máquina, e possibilitará o modelo decidir a resposta de acordo com os dados de entrada.
-4.  Hyperparâmetros e processo de tunagem: tem como propósito a melhoria do modelo
-5.  Deploy do modelo: Disponibilização da aplicação para o usuário final
-6.  Monitoramento do modelo: etapa que tem como finalidade a verificação da saúde e desempenho do modelo.
+1.  Arquivo de Dados: csv, parquet, pickle entre outros, que tem a função de armazenamento dos dados.
+2.  Imagens: gráficos e demais elementos visuais que auxiliam no entendimento do problema.
+6.  Documentos: tem a finalidade de documentar, as justificativas do projeto, e também de registrar requisitos para aplicar as regras e modelagem.
 
 # 6- Implemente o pipeline de processamento de dados com o mlflow, rodada (run) com o nome "PreparacaoDados":
 

@@ -6,6 +6,7 @@ import pycaret.classification as pc
 
 fname = '../data/operalization/final_teste.pkl'
 
+
 dataset_train = pd.read_parquet('../Data/operalization/base_train.parquet')
 dataset_test = pd.read_parquet('../Data/operalization/base_test.parquet')
 results = pd.read_parquet('../data/processed/data_filtered.parquet')
