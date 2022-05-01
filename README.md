@@ -28,7 +28,8 @@ Os pipelines são responsáveis por padronizar, otimizar e melhorar o tratamento
 6.  Documentos: tem a finalidade de documentar, as justificativas do projeto, e também de registrar requisitos para aplicar as regras e modelagem.
 
 # 6- Implemente o pipeline de processamento de dados com o mlflow, rodada (run) com o nome "PreparacaoDados":
-d. tamanho de cada base: 
+d. Dimensão dos datasets:
+
     1. train: linhas: 16228, colunas: 21
     2. test: linhas: 4057, colunas: 21
 
